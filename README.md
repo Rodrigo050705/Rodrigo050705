@@ -27,6 +27,17 @@ Desenvolvimento de um sistema de redes neurais para identificar doenças em plan
 
 ---
 
+### 🍷 Projeto em Destaque: Sistema de estoque de vinho
+
+Desenvolvimento de um sistema Android Mobile de controle de estoque de vinhos. Realiza CRUD: permite criação de vinho, leitura (filtro), edição do vinho adicionado e exclusão. 
+
+- **Core:** Java + Android Studio.
+- **Wokflow:** Adição de vinho -> filtro -> edição / exclusão
+- **Objetivo:** Controlar estoque de vinhos de uma vinheria.
+<img width="233" height="363" alt="image" src="https://github.com/user-attachments/assets/74bf82c4-61a9-459e-a9f1-39be2d59e019" />
+
+---
+
 ### 📊 Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Rodrigo050705&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
