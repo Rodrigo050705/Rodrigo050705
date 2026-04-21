@@ -1,4 +1,4 @@
-# Olá, eu sou o Rodrigo 👋
+# Olá, eu sou o Rodrigo 🤓👋
 
 Estudante em engenharia de software Neste projeto, meu grupo aplicou **Visão Computacional** e soluções para o **Agronegócio**. Desenvolvemos um sistema inteligente para monitoramento de safras e integração de dados.
 
