@@ -1,7 +1,6 @@
 # Olá, eu sou o Rodrigo 🤓👋
 
-Estudante em engenharia de software Neste projeto, meu grupo aplicou **Visão Computacional** e soluções para o **Agronegócio**. Desenvolvemos um sistema inteligente para monitoramento de safras e integração de dados.
-
+Estudante em engenharia de software atento ao ciclo de produção de uma solução tecnológica (planejamento, desenvolvimento, manutenção e segurança). Focado no desenvolvimento front/back-end e manuseio de bancos de dados.
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
@@ -14,7 +13,8 @@ Estudante em engenharia de software Neste projeto, meu grupo aplicou **Visão Co
 
 ### 🌽 Projeto em Destaque: Classificação de Saúde do Milho
 
-Desenvolvimento de um sistema de IA para identificar doenças em plantas de milho. 
+Desenvolvimento de um sistema de redes neurais para identificar doenças em plantas de milho. Neste projeto, meu grupo aplicou **Visão Computacional** e soluções para o **Agronegócio**. Desenvolvemos um sistema inteligente para monitoramento de safras e integração de dados.
+
 <img width="218" height="180" alt="Captura de tela 2026-04-14 132439" src="https://github.com/user-attachments/assets/61d9b567-0d68-4222-be8f-2f82cf930aa7" /> 
 - **Core:** Python + OpenCV + DenseNet121.
 - **Workflow:** Processamento de imagens locais -> Banco SQLite -> Sincronização automática com Google Sheets -> Dashboard no Looker Studio.
