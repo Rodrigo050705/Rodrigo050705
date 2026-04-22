@@ -46,5 +46,6 @@ Desenvolvimento de um sistema Android Mobile de controle de estoque de vinhos. R
 ---
 
 ### 📫 Como me encontrar
-- **GitHub:** [github.com/Rodrigo050705](https://github.com/Rodrigo050705)
-- **Linkedin:** [www.linkedin.com/in/rodrigo-santos-350065203](https://www.linkedin.com/in/rodrigo-santos-350065203/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rodrigo050705)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-santos-350065203/)
