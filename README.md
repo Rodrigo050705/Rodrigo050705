@@ -40,10 +40,9 @@ Desenvolvimento de um sistema Android Mobile de controle de estoque de vinhos. R
 
 ### 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Rodrigo050705&show_icons=true&theme=dark)
+![Estatísticas do Rodrigo](https://github-readme-stats-sigma-five.vercel.app/api?username=Rodrigo050705&show_icons=true&theme=dark)
 
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo050705&layout=compact&theme=dark)
+![Linguagens do Rodrigo](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rodrigo050705&layout=compact&theme=dark)
 
 ---
 
