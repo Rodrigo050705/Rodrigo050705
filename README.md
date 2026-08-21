@@ -36,12 +36,6 @@ Desenvolvimento de um sistema Android Mobile de controle de estoque de vinhos. R
 - **Objetivo:** Controlar estoque de vinhos de uma vinheria.
 <img width="233" height="363" alt="image" src="https://github.com/user-attachments/assets/74bf82c4-61a9-459e-a9f1-39be2d59e019" />
 
----
-
-### 📊 Estatísticas do GitHub
-
-![Estatísticas do Rodrigo](https://github-readme-stats-sigma-five.vercel.app/api?username=Rodrigo050705&show_icons=true&theme=dark)
-![Linguagens do Rodrigo](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rodrigo050705&layout=compact&theme=dark)
 
 ---
 
