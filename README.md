@@ -1,6 +1,6 @@
 # Olá, eu sou o Rodrigo 🤓👋
 
-Estudante em engenharia de software atento ao ciclo de produção de uma solução tecnológica. Focado no desenvolvimento front/back-end e manuseio de bancos de dados.
+Estudante em engenharia de software atento ao ciclo de produção de uma solução tecnológica. Focado no desenvolvimento front/back-end e manuseio de bancos de dados. Atualmente, estou trabalhando em um projeto de automação e extração de dados.
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
